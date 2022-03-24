@@ -1,0 +1,4 @@
+EQU Currency TO 1,
+    Amount   TO 2,
+    CrDr     TO 3,
+    Details  TO 4

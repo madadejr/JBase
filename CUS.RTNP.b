@@ -1,0 +1,3 @@
+    PROGRAM CUS.RTNP
+    CALL CUS.RTN
+    END
